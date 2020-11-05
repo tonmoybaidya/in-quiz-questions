@@ -116,9 +116,9 @@ Disallow: /
 
 #### Q17. Which link is not crawlable?
 -`<a href="http://domain.com">`
--`<a onclick="newwin('domain.com')">`
+-`<a onclick="newwin('domain.com')">`------------------------------------ Correct
 -`<a href="http://domain.com" class="blue">`
--`<a href="../category-2/page">`
+-`<a href="../category-2/page">` 
 
 #### Q18. Which choice represents the best header structure?
 -
@@ -181,7 +181,7 @@ Disallow: *
 ```
 
 #### Q20. All byline dates articles are suddenly no longer visible on a website's listing within Google Search. Assuming no changes have been made to the site programming or content, what is the most likely cause?
-- The site has been delisted from Google Search
+- The site has been delisted from Google Search -------------------------------------------------------------- Correct
 - The site kept updating the date to make the content appear fresh, without changing the content.
 - The articles have aged more than 365 days without any significant updates to the content or the site.
 - A Google New sitemap was not provided within 30 days of setting up a Publisher Center account
@@ -201,14 +201,14 @@ Disallow: *
 #### Q23. You are optimizing a website that sells supplies for banking donuts. Which approach is most appropriate to drive more organic traffic?
 - Buy donutbakingsupplies.com and 301 redirect to your website
 - Add the keyword "donut supplies" to every page.
-- Create a new blog with high-quality donut recipes
+- Create a new blog with high-quality donut recipes ------------------------------------ Correct
 - Join a link farm to rapidly build inbounnd links.
 
 #### Q24. Why is it important to be mindful of outbound follow links?
 - There is a limit to how many links you can create.
 - all of these answers
 - Any follow links reduce your PageRank by 1.
-- Your site's reputation is tied to the sites you link to.
+- Your site's reputation is tied to the sites you link to. ------------------------------------ Correct
 
 #### Q25. Which statement is true about JSON-LD?
 - It has no relation to JSON.
@@ -220,7 +220,7 @@ Disallow: *
 - It creates an inability to use canonical URLs, which dramatically reduces crawl effectiveness,
 - It requires using a 302 redirect, which dilutes PageRank.
 - It triggers an immediate manual action penalty, which delists an entire domain until the duplicate content is removed.
-- It makes it difficult for a search engine to determine the original and authoritative content source.
+- It makes it difficult for a search engine to determine the original and authoritative content source.------------------------------------ Correct
 
 #### Q27. What attribute would you use to describe the content of an image?
 - tabindex
@@ -242,6 +242,6 @@ Disallow: *
 
 #### Q30. Changing the title tag and/or meta description will have a measurable impact on your ____.
 - RSS
-- CTR
+- CTR ------------------------------------ Correct
 - PPC
 - LSI
